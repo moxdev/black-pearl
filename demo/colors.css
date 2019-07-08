@@ -1,0 +1,136 @@
+#011627 // night owl bkg
+#070825 // 1984 purple bkg
+#FF16B0
+
+// Black Pearl
+#021728 // background
+#ACB3B9 // foreground
+
+// Shades of Black Pearl
+#021728
+#03223b
+#042c4d
+#053760
+#064273
+#074d85
+#085798
+#0962ab
+#096dbd
+#0a78d0
+#0b82e3
+
+
+
+.color-primary-0 {
+  color: #021728
+}
+
+// Monochromatic
+#C0C5C9,
+#818C94,
+#60696F,
+#01111E,
+#010C14,
+#00090F,
+
+
+/* Main Primary color */
+.color-primary-1 {
+  color: #1A3E5C
+}
+
+.color-primary-2 {
+  color: #07263F
+}
+
+.color-primary-3 {
+  color: #010C15
+}
+
+.color-primary-4 {
+  color: #000407
+}
+
+.color-primary-0 {
+  color: #0B5FA5
+}
+
+/* Main Primary color */
+.color-primary-1 {
+  color: #518BBB
+}
+
+.color-primary-2 {
+  color: #2F72AA
+}
+
+.color-primary-3 {
+  color: #08497F
+}
+
+.color-primary-4 {
+  color: #053964
+}
+
+.color-secondary-1-0 {
+  color: #7309AA
+}
+
+/* Main Secondary color (1) */
+.color-secondary-1-1 {
+  color: #9A50BF
+}
+
+.color-secondary-1-2 {
+  color: #842EAF
+}
+
+.color-secondary-1-3 {
+  color: #590683
+}
+
+.color-secondary-1-4 {
+  color: #460467
+}
+
+.color-secondary-2-0 {
+  color: #FBFE00
+}
+
+/* Main Secondary color (2) */
+.color-secondary-2-1 {
+  color: #FCFF63
+}
+
+.color-secondary-2-2 {
+  color: #FCFE39
+}
+
+.color-secondary-2-3 {
+  color: #C2C400
+}
+
+.color-secondary-2-4 {
+  color: #989A00
+}
+
+.color-complement-0 {
+  color: #FF9400
+}
+
+/* Main Complement color */
+.color-complement-1 {
+  color: #FFBD63
+}
+
+.color-complement-2 {
+  color: #FFAC39
+}
+
+.color-complement-3 {
+  color: #C57200
+}
+
+.color-complement-4 {
+  color: #9B5A00
+}

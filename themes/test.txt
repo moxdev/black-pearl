@@ -1,0 +1,48 @@
+- sideBar.background: Side Bar background color.
+- sideBar.foreground: Side Bar foreground color. The Side Bar is the container for views like Explorer and Search.
+- sideBar.border: Side Bar border color on the side separating the editor.
+- sideBar.dropBackground: Drag and drop feedback color for the side bar sections. The color should have transparency so that the side bar sections can still shine through. The side bar is the container for views like explorer and search.
+- sideBarTitle.foreground: Side Bar title foreground color.
+- sideBarSectionHeader.background: Side Bar section header background color.
+- sideBarSectionHeader.foreground: Side Bar section header foreground color.
+- sideBarSectionHeader.border: Side bar section header border color.
+
+# Sidebar
+sideBar.background:
+sideBar.foreground:
+sideBar.border:
+sideBar.dropBackground:
+sideBarTitle.foreground:
+sideBarSectionHeader.background:
+sideBarSectionHeader.foreground:
+sideBarSectionHeader.border:
+
+# Buttons
+button.background:
+button.foreground:
+button.hoverBackground:
+
+# Activity Bar
+activityBar.background: Activity Bar background color.
+activityBar.dropBackground: Drag and drop feedback color for the Activity Bar items.
+activityBar.foreground: Activity bar foreground color (for example used for the icons).
+activityBar.inactiveForeground: Activity bar item foreground color when it is inactive.
+activityBar.border: Activity Bar border color with the Side Bar.
+activityBarBadge.background: Activity notification badge background color.
+activityBarBadge.foreground:
+
+# Status Bar
+statusBar.background: Standard Status Bar background color.
+statusBar.foreground: Status Bar foreground color.
+statusBar.border: Status Bar border color separating the Status Bar and editor.
+statusBar.debuggingBackground: Status Bar background color when a program is being debugged.
+statusBar.debuggingForeground: Status Bar foreground color when a program is being debugged.
+statusBar.debuggingBorder: Status Bar border color separating the Status Bar and editor when a program is being debugged.
+statusBar.noFolderForeground: Status Bar foreground color when no folder is opened.
+statusBar.noFolderBackground: Status Bar background color when no folder is opened.
+statusBar.noFolderBorder: Status Bar border color separating the Status Bar and editor when no folder is opened.
+statusBarItem.activeBackground: Status Bar item background color when clicking.
+statusBarItem.hoverBackground: Status Bar item background color when hovering.
+statusBarItem.prominentForeground: Status Bar prominent items foreground color.
+statusBarItem.prominentBackground: Status Bar prominent items background color.
+statusBarItem.prominentHoverBackground: Status Bar prominent items background color when hovering.
